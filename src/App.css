@@ -1,0 +1,106 @@
+.background{
+  color: white;
+  background-color: black;
+  height: 100%;
+  width:100%;
+  background-size: cover;
+  text-align: center;
+  padding: 30px;
+}
+.heading{
+  font-family: Roboto;
+font-size: 30px;
+text-align: center;
+font-size: 20px;
+margin-bottom: 20px;
+  
+}
+.mainimg{
+  width: 500px;
+  height: 270px;
+}
+.mainpara{
+  font-family: Poppins;
+font-size: 8px;
+text-align: center;
+margin-right: 60px;
+margin-left: 60px;
+margin-top: 20px;
+}
+
+.button{
+  background-color: white;
+  color: black;
+  width: 190px;
+  height: 30px;
+  margin: 20px;
+
+}
+
+.subpara{
+  font-family: Poppins;
+font-size: 8px;
+text-align: center;
+margin-top: 20px;
+margin-right: 100px;
+margin-left: 100px;
+}
+.cardpara{
+  font-family: Poppins;
+font-size: 8px;
+text-align: center;
+margin-top: 20px;
+margin-right: 30px;
+margin-left: 30px;
+}
+
+.subimg{
+  width: 150px;
+  height: 150px;
+}
+
+.subbtn2{
+  background-color: white;
+  color: black;
+  width: 150px;
+  height: 40px;
+  border: 0px;
+  font-family: 'Poppins';
+  margin: 20px;
+}
+.subbtn1{
+  background-color: black;
+  color: white;
+  width: 150px;
+  height: 40px;
+  margin: 20px;
+  font-family: 'Poppins';
+  border-color: white;
+}
+
+.contributer-heading{
+font-size: 70px;
+}
+
+.review{
+  margin: 30px;
+  padding: 30px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.reviewcard-heading{
+  font-size: 20px;
+}
+.reviewcard-para{
+  font-size: 10px;
+
+}
+
+.lastcontainer{
+  text-align: center;
+}
+
+.lastbtn-container{
+  justify-content: center;
+}
